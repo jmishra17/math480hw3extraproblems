@@ -1,3 +1,7 @@
+'''
+	This program calculates all primes upto limit
+'''
+
 import math
 def sieve_atkinsPy(limit):
 	result = [2,3,5]

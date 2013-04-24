@@ -1,3 +1,7 @@
+'''
+	This program calculates the determinant of a matrix.
+'''
+
 def computeDetPy():
 	matrix = \
 		  [[13,42,43,22],

@@ -1,3 +1,7 @@
+'''
+	Cython version of the program that computes the determinant of a matrix
+'''
+
 import numpy as np 
 cimport numpy as np
 def computeDetCy():

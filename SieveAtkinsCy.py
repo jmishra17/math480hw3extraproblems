@@ -1,3 +1,6 @@
+'''
+	This program is the Cython version that calculates all primes upto limit
+'''
 from libc.math cimport sqrt
 def sieve_atkinsCy():
 	return compute(10000)

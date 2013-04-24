@@ -1,3 +1,8 @@
+'''
+	Cython version of the program that calculates the sum of 
+	squares upto n
+'''
+
 def sumCy(n):
 	return  compute(n)
 		

@@ -1,3 +1,7 @@
+'''
+	This program multiplies two matrices of the order n x n
+'''
+
 from random import randint
 def matrixmult_Py(n):
 	X=[]

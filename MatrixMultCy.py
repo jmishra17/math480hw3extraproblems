@@ -1,3 +1,7 @@
+'''
+	Cython version of the program that multiples two matrices of the order n by n
+'''
+
 import random as rd
 def matrixmult_Cy(int n):
 	cdef list X=[]
